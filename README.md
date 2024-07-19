@@ -1,4 +1,4 @@
-# vue-
+# Vue Crash Course 2024 by Brad Traversy
 
 This template should help get you started developing with Vue 3 in Vite.
 
